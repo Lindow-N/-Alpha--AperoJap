@@ -1,0 +1,108 @@
+{
+  "Categorie": [
+    {
+      "Title": "Petit Plats",
+      "receipts": [
+        {
+          "Title": "Croquettes",
+          "data": {
+            "name": "Croquettes",
+            "img": "Croquettes",
+            "Prep":"20",
+            "Cook":"55",
+            "NB":"6",
+            "ingredients":[
+              "200g de bœuf haché",
+              "1/2 chou vert",
+              "6 pommes de terre",
+              "1 oignon",
+              "2 oeufs",
+              "fécule de pomme de terre",
+              "chapelure Panko"
+            ],
+            "Steps":[
+              "Faites cuire les pommes de terre 20 minutes environdans une casserole d'eau salée.Égouttez-les et pelez-les. Ecrasez-les dans un saladier.",
+              "Séparez les blancs d'oeufs des jaunes.Pelez l'oignon et hachez-le finement. Faites-le revenirdans une poêle avec un filet d'huile à feu moyenjusqu'à ce qu'il devienne translucide.Ajoutez la viande et salez. Faites revenir 4 à 5 minutes à feu vif.Incorporez les pommes de terre écrasées et mélangez.",
+              "Hors du feu, ajoutez les jaunes d'œufs touten mélangeant.Formez des boulettes avec cette préparation, de la tailles désiré.",
+              "Battez les blancs d'oeufs dans un bol.Déposez la fécule de pomme de terre dans une assiette et la chapelure dans une autre. Passez chaque boulette dans la fécule puis dans le blanc d'oeufset enfin dans la chapelure.",
+              "Faites chauffer de d'huile au fond d'une casserole puis faitescuire les boulettes 5 minutes environ jusqu'à ce qu'elles soient bien dorées."
+            ],
+            "Comment":"A déguster avec la sauce tonkatsu !"
+          }
+        },
+        {
+          "Title": "Croquettes2",
+          "data": {
+            "name": "Croquettes2",
+            "img": "Croquettes2",
+            "Prep":"xx0",
+            "Cook":"55",
+            "NB":"6",
+            "ingredients":[
+              "2",
+              "4",
+              "5",
+              "8"
+            ],
+            "NbStep": 2,
+            "Steps":[
+              "S1",
+              "S2"
+            ],
+            "Comment":"okokokokoko okokokko lore;"
+          }
+        }
+      ]
+    },
+    {
+      "Title": "Viandes",
+   "receipts": [
+        {
+          "Title": "Croquettes",
+          "data": {
+            "name": "Croquettes",
+            "img": "Croquettes",
+            "Prep":"xx0",
+            "Cook":"55",
+            "NB":"6",
+            "ingredients":[
+              "2",
+              "4",
+              "5",
+              "8"
+            ],
+            "NbStep": 2,
+            "Steps":[
+              "S1",
+              "S2"
+            ],
+            "Comment":"okokokokoko okokokko lore;"
+          }
+        },
+        {
+          "Title": "Croquettes2",
+          "data": {
+            "name": "Croquettes2",
+            "img": "Croquettes2",
+            "Prep":"xx0",
+            "Cook":"55",
+            "NB":"6",
+            "ingredients":[
+              "2",
+              "4",
+              "5",
+              "8"
+            ],
+            "NbStep": 2,
+            "Steps":[
+              "S1",
+              "S2"
+            ],
+            "Comment":"okokokokoko okokokko lore;"
+          }
+        }
+      ]
+    }
+   
+  ]
+}
